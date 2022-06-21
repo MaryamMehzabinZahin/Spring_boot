@@ -6,6 +6,7 @@
 </head>
 
 <body> 
+<h1> ${message}</h1>
 	<form method="post">
 	
 	Name: <input type="text" name="name"/>
