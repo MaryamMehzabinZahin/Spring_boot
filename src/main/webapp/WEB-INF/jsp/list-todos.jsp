@@ -9,6 +9,8 @@
 here are ${name} todos:
 
 	 ${todos} 
+	 <br/>
+	 <a href = "/add-todo"> Add a todo</a>
 
 </body>
 </html>
